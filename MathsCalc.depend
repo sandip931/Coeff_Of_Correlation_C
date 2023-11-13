@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1690031317 source:c:\users\puzap\onedrive\desktop\c\mathscalc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+
+1690155498 source:c:\users\puzap\onedrive\desktop\c-prog\mathscalc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+
